@@ -1,0 +1,16 @@
+.FLEX{
+    display: flex;
+    background-color: aqua;
+
+}
+P{
+    COLOR:RED;
+}
+.FLEX>DIV>P{
+width: 100PX;
+margin-left: 500PX;
+}
+.FLEX>DIV>IMG{
+    width: 300PX;
+    margin-left: 500PX;
+    }
